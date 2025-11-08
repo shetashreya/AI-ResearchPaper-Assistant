@@ -6,7 +6,7 @@ Runs entirely offline, ensuring speed, privacy, and full local control.
 
 ## Features
 - Local and private — runs fully on your machine.
-- Uses RAG to retrieve and answer from 120+ AI/ML research papers.
+- Uses RAG to retrieve and answer from 110+ AI/ML research papers.
 - Supports Ollama models (LLaMA 3.2).
 - Built with LangChain and Chroma for retrieval and embeddings.
 
