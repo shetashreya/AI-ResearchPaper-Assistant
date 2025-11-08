@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+venv/
+croma_langchain_db/
+chroma_langchain_db/
